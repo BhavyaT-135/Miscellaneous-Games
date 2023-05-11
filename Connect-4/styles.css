@@ -11,3 +11,13 @@
   width: 20px;
   background-color: rgb(205, 129, 246);
 }
+
+.player-one {
+  background-color: rgb(255, 116, 78);
+  border-radius: 10px;
+}
+
+.player-two {
+  background-color: rgb(101, 241, 160);
+  border-radius: 10px;
+}
